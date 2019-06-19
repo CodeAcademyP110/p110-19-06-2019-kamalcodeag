@@ -1,0 +1,10 @@
+D:\Programming\Other\C#\19.06.2019(Task,httpClient)\HomePractice\HomePractice\HomePractice\bin\Debug\HomePractice.exe.config
+D:\Programming\Other\C#\19.06.2019(Task,httpClient)\HomePractice\HomePractice\HomePractice\bin\Debug\HomePractice.exe
+D:\Programming\Other\C#\19.06.2019(Task,httpClient)\HomePractice\HomePractice\HomePractice\bin\Debug\HomePractice.pdb
+D:\Programming\Other\C#\19.06.2019(Task,httpClient)\HomePractice\HomePractice\HomePractice\obj\Debug\HomePractice.csprojAssemblyReference.cache
+D:\Programming\Other\C#\19.06.2019(Task,httpClient)\HomePractice\HomePractice\HomePractice\obj\Debug\HomePractice.Form1.resources
+D:\Programming\Other\C#\19.06.2019(Task,httpClient)\HomePractice\HomePractice\HomePractice\obj\Debug\HomePractice.Properties.Resources.resources
+D:\Programming\Other\C#\19.06.2019(Task,httpClient)\HomePractice\HomePractice\HomePractice\obj\Debug\HomePractice.csproj.GenerateResource.cache
+D:\Programming\Other\C#\19.06.2019(Task,httpClient)\HomePractice\HomePractice\HomePractice\obj\Debug\HomePractice.csproj.CoreCompileInputs.cache
+D:\Programming\Other\C#\19.06.2019(Task,httpClient)\HomePractice\HomePractice\HomePractice\obj\Debug\HomePractice.exe
+D:\Programming\Other\C#\19.06.2019(Task,httpClient)\HomePractice\HomePractice\HomePractice\obj\Debug\HomePractice.pdb
